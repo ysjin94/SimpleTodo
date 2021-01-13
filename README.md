@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Save_and_Load.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='Add_and_Remove.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Save_and_Load.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
